@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://charles-d7625.github.io/csb-2nqrd/static/css/main.d1b158fb.chunk.css",
+    "main.js": "https://charles-d7625.github.io/csb-2nqrd/static/js/main.f3a333a8.chunk.js",
+    "main.js.map": "https://charles-d7625.github.io/csb-2nqrd/static/js/main.f3a333a8.chunk.js.map",
+    "runtime-main.js": "https://charles-d7625.github.io/csb-2nqrd/static/js/runtime-main.c0670bc4.js",
+    "runtime-main.js.map": "https://charles-d7625.github.io/csb-2nqrd/static/js/runtime-main.c0670bc4.js.map",
+    "static/js/2.b2614ffb.chunk.js": "https://charles-d7625.github.io/csb-2nqrd/static/js/2.b2614ffb.chunk.js",
+    "static/js/2.b2614ffb.chunk.js.map": "https://charles-d7625.github.io/csb-2nqrd/static/js/2.b2614ffb.chunk.js.map",
+    "index.html": "https://charles-d7625.github.io/csb-2nqrd/index.html",
+    "static/css/main.d1b158fb.chunk.css.map": "https://charles-d7625.github.io/csb-2nqrd/static/css/main.d1b158fb.chunk.css.map",
+    "static/js/2.b2614ffb.chunk.js.LICENSE.txt": "https://charles-d7625.github.io/csb-2nqrd/static/js/2.b2614ffb.chunk.js.LICENSE.txt",
+    "static/media/load.189d1ef2.gif": "https://charles-d7625.github.io/csb-2nqrd/static/media/load.189d1ef2.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0670bc4.js",
+    "static/js/2.b2614ffb.chunk.js",
+    "static/css/main.d1b158fb.chunk.css",
+    "static/js/main.f3a333a8.chunk.js"
+  ]
+}
